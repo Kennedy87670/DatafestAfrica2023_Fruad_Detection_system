@@ -1,1 +1,1 @@
-# DatafestAfrica2023_Fruad_Detection_system
+# DatafestAfrica2023_Fraud_Detection_system
